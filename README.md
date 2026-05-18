@@ -1,6 +1,4 @@
 # WDM-VLC-Communication-Simulation
-MATLAB simulation for Wavelength Division Multiplexing in Visible Light Communications
-# WDM-VLC-Communication-Simulation
 
 MATLAB simulation for a multi-channel Wavelength Division Multiplexing Visible Light Communication (WDM-VLC) system utilizing advanced signal processing and error correction.
 
